@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var ResultLabel: UILabel!
     
+    @IBOutlet weak var BackgroundImage: UIImageView!
+    
     var result = 0
     
     override func viewDidLoad() {
